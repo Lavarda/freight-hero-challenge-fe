@@ -1,0 +1,64 @@
+{
+  "drivers": [
+    {
+      "id": 1,
+      "name": "Klaus Weber",
+      "location": "Munich",
+      "status": "busy",
+      "rating": 4.8,
+      "completedLoads": 156,
+      "phone": "+49 171 1234567",
+      "email": "klaus.weber@example.com",
+      "licenseNumber": "DLKW001",
+      "licenseExpiry": "30/12/2025"
+    },
+    {
+      "id": 2,
+      "name": "Maria Schmidt",
+      "location": "Cologne",
+      "status": "busy",
+      "rating": 4.9,
+      "completedLoads": 203,
+      "phone": "+49 172 2345678",
+      "email": "maria.schmidt@example.com",
+      "licenseNumber": "DLMS002",
+      "licenseExpiry": "14/06/2026"
+    },
+    {
+      "id": 3,
+      "name": "Hans Mueller",
+      "location": "Hamburg",
+      "status": "available",
+      "rating": 4.6,
+      "completedLoads": 89,
+      "phone": "+49 173 3456789",
+      "email": "hans.mueller@example.com",
+      "licenseNumber": "DLHM003",
+      "licenseExpiry": "19/11/2024"
+    },
+    {
+      "id": 4,
+      "name": "Anna Fischer",
+      "location": "Berlin",
+      "status": "available",
+      "rating": 4.7,
+      "completedLoads": 134,
+      "phone": "+49 174 4567890",
+      "email": "anna.fischer@example.com",
+      "licenseNumber": "DLAF004",
+      "licenseExpiry": "09/03/2027"
+    },
+    {
+      "id": 5,
+      "name": "Lukas Wagner",
+      "location": "Frankfurt",
+      "status": "offline",
+      "rating": 4.3,
+      "completedLoads": 55,
+      "phone": "+49 175 5678901",
+      "email": "lukas.wagner@example.com",
+      "licenseNumber": "DLLW005",
+      "licenseExpiry": "31/07/2025"
+    }
+  ]
+}

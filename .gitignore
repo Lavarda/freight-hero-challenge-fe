@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.*/
+
+*.tsbuildinfo
+*.env.*
+*.env
+
+# Not needed for the test
+package-lock.json
+
+!vite.env.d.ts

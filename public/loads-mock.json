@@ -1,0 +1,316 @@
+{
+  "loads": [
+    {
+      "id": 12345678,
+      "status": "in route",
+      "origin": "Los Angeles, CA",
+      "destination": "Las Vegas, NV",
+      "client_name": "John Doe",
+      "carrier_name": "Express Logistics"
+    },
+    {
+      "id": 23456789,
+      "status": "pick up",
+      "origin": "Dallas, TX",
+      "destination": "Phoenix, AZ",
+      "client_name": "Jane Smith",
+      "carrier_name": "Swift Transport"
+    },
+    {
+      "id": 34567890,
+      "status": "delivered",
+      "origin": "Miami, FL",
+      "destination": "Atlanta, GA",
+      "client_name": "Alice Johnson",
+      "carrier_name": "Prime Freight"
+    },
+    {
+      "id": 45678901,
+      "status": "in route",
+      "origin": "Chicago, IL",
+      "destination": "Columbus, OH",
+      "client_name": "Bob Brown",
+      "carrier_name": "Roadway Haulers"
+    },
+    {
+      "id": 56789012,
+      "status": "pick up",
+      "origin": "New York City, NY",
+      "destination": "Philadelphia, PA",
+      "client_name": "Emily Davis",
+      "carrier_name": "Skyline Shipping"
+    },
+    {
+      "id": 67890123,
+      "status": "in route",
+      "origin": "Seattle, WA",
+      "destination": "Portland, OR",
+      "client_name": "Chris Lee",
+      "carrier_name": "Cascade Freight"
+    },
+    {
+      "id": 78901234,
+      "status": "pick up",
+      "origin": "Charlotte, NC",
+      "destination": "Columbia, SC",
+      "client_name": "Olivia Green",
+      "carrier_name": "Pine State Transport"
+    },
+    {
+      "id": 89012345,
+      "status": "delivered",
+      "origin": "Nashville, TN",
+      "destination": "Lexington, KY",
+      "client_name": "Liam White",
+      "carrier_name": "Bluegrass Haulers"
+    },
+    {
+      "id": 90123456,
+      "status": "in route",
+      "origin": "Denver, CO",
+      "destination": "Salt Lake City, UT",
+      "client_name": "Sophia Black",
+      "carrier_name": "Rocky Road Logistics"
+    },
+    {
+      "id": 10234567,
+      "status": "pick up",
+      "origin": "Boston, MA",
+      "destination": "Hartford, CT",
+      "client_name": "Ethan Brown",
+      "carrier_name": "New England Freight"
+    },
+    {
+      "id": 11223344,
+      "status": "in route",
+      "origin": "San Francisco, CA",
+      "destination": "Reno, NV",
+      "client_name": "Victoria Gomez",
+      "carrier_name": "Golden Gate Haulers"
+    },
+    {
+      "id": 22334455,
+      "status": "pick up",
+      "origin": "Austin, TX",
+      "destination": "Santa Fe, NM",
+      "client_name": "Kevin Harper",
+      "carrier_name": "Southwest Logistics"
+    },
+    {
+      "id": 33445566,
+      "status": "delivered",
+      "origin": "Atlanta, GA",
+      "destination": "Jacksonville, FL",
+      "client_name": "Madison Taylor",
+      "carrier_name": "Peach State Freight"
+    },
+    {
+      "id": 44556677,
+      "status": "in route",
+      "origin": "Columbus, OH",
+      "destination": "Pittsburgh, PA",
+      "client_name": "Alexander Green",
+      "carrier_name": "Steel City Movers"
+    },
+    {
+      "id": 55667788,
+      "status": "pick up",
+      "origin": "Minneapolis, MN",
+      "destination": "Milwaukee, WI",
+      "client_name": "Sophia Carter",
+      "carrier_name": "Northwoods Transport"
+    },
+    {
+      "id": 66778899,
+      "status": "delivered",
+      "origin": "Phoenix, AZ",
+      "destination": "El Paso, TX",
+      "client_name": "Benjamin Adams",
+      "carrier_name": "Desert Valley Freight"
+    },
+    {
+      "id": 77889900,
+      "status": "in route",
+      "origin": "Detroit, MI",
+      "destination": "Cleveland, OH",
+      "client_name": "Emma White",
+      "carrier_name": "Rust Belt Movers"
+    },
+    {
+      "id": 88990011,
+      "status": "pick up",
+      "origin": "Kansas City, MO",
+      "destination": "Omaha, NE",
+      "client_name": "Daniel Evans",
+      "carrier_name": "Midwest Haulers"
+    },
+    {
+      "id": 99001122,
+      "status": "delivered",
+      "origin": "Portland, OR",
+      "destination": "Seattle, WA",
+      "client_name": "Hannah Cooper",
+      "carrier_name": "Cascade Express"
+    },
+    {
+      "id": 10001234,
+      "status": "in route",
+      "origin": "Philadelphia, PA",
+      "destination": "Newark, NJ",
+      "client_name": "Logan Foster",
+      "carrier_name": "Keystone Logistics"
+    },
+    {
+      "id": 97854321,
+      "status": "delivered",
+      "origin": "Buffalo, NY",
+      "destination": "Rochester, NY",
+      "client_name": "Matthew Rivera",
+      "carrier_name": "Empire Logistics"
+    },
+    {
+      "id": 43782961,
+      "status": "pick up",
+      "origin": "Phoenix, AZ",
+      "destination": "Tucson, AZ",
+      "client_name": "Amelia Lopez",
+      "carrier_name": "Desert Haulers"
+    },
+    {
+      "id": 25679348,
+      "status": "pick up",
+      "origin": "Tulsa, OK",
+      "destination": "Springfield, MO",
+      "client_name": "Ava Scott",
+      "carrier_name": "Heartland Express"
+    },
+    {
+      "id": 87234519,
+      "status": "pick up",
+      "origin": "Hartford, CT",
+      "destination": "New Haven, CT",
+      "client_name": "Charlotte Kelly",
+      "carrier_name": "Nutmeg State Haulers"
+    },
+    {
+      "id": 64823957,
+      "status": "pick up",
+      "origin": "Helena, MT",
+      "destination": "Bismarck, ND",
+      "client_name": "Grace Moore",
+      "carrier_name": "Big Sky Logistics"
+    },
+    {
+      "id": 98356124,
+      "status": "delivered",
+      "origin": "Portland, ME",
+      "destination": "Bangor, ME",
+      "client_name": "Emily Adams",
+      "carrier_name": "Pine Tree Freight"
+    },
+    {
+      "id": 72319485,
+      "status": "pick up",
+      "origin": "Anchorage, AK",
+      "destination": "Fairbanks, AK",
+      "client_name": "Lucas Green",
+      "carrier_name": "Polar Express"
+    },
+    {
+      "id": 39172864,
+      "status": "in route",
+      "origin": "Madison, WI",
+      "destination": "Chicago, IL",
+      "client_name": "Chloe Davis",
+      "carrier_name": "Great Lakes Freight"
+    },
+    {
+      "id": 65789234,
+      "status": "delivered",
+      "origin": "Charleston, SC",
+      "destination": "Savannah, GA",
+      "client_name": "Ella Taylor",
+      "carrier_name": "Coastal Haulers"
+    },
+    {
+      "id": 74938562,
+      "status": "delivered",
+      "origin": "Little Rock, AR",
+      "destination": "Memphis, TN",
+      "client_name": "Sophia Hall",
+      "carrier_name": "Delta Freight"
+    },
+    {
+      "id": 21394785,
+      "status": "in route",
+      "origin": "Salt Lake City, UT",
+      "destination": "Provo, UT",
+      "client_name": "Benjamin Martinez",
+      "carrier_name": "Beehive Transport"
+    },
+    {
+      "id": 89457632,
+      "status": "pick up",
+      "origin": "Seattle, WA",
+      "destination": "Spokane, WA",
+      "client_name": "Logan Hill",
+      "carrier_name": "Evergreen Transport"
+    },
+    {
+      "id": 31249876,
+      "status": "delivered",
+      "origin": "Las Vegas, NV",
+      "destination": "Reno, NV",
+      "client_name": "William Clark",
+      "carrier_name": "Silver State Logistics"
+    },
+    {
+      "id": 62984751,
+      "status": "in route",
+      "origin": "New Orleans, LA",
+      "destination": "Baton Rouge, LA",
+      "client_name": "Isabella Young",
+      "carrier_name": "Bayou Express"
+    },
+    {
+      "id": 83947216,
+      "status": "pick up",
+      "origin": "Orlando, FL",
+      "destination": "Tampa, FL",
+      "client_name": "Ryan Garcia",
+      "carrier_name": "Sunshine State Logistics"
+    },
+    {
+      "id": 49718635,
+      "status": "in route",
+      "origin": "Boise, ID",
+      "destination": "Cheyenne, WY",
+      "client_name": "Mia Martinez",
+      "carrier_name": "Mountain Movers"
+    },
+    {
+      "id": 19487326,
+      "status": "delivered",
+      "origin": "Buffalo, NY",
+      "destination": "Albany, NY",
+      "client_name": "Oliver Brown",
+      "carrier_name": "Empire State Logistics"
+    },
+    {
+      "id": 92837465,
+      "status": "delivered",
+      "origin": "Fargo, ND",
+      "destination": "Sioux Falls, SD",
+      "client_name": "Ethan Wilson",
+      "carrier_name": "Northern Express"
+    },
+    {
+      "id": 36478921,
+      "status": "in route",
+      "origin": "Lincoln, NE",
+      "destination": "Topeka, KS",
+      "client_name": "James Walker",
+      "carrier_name": "Plains Transport"
+    }
+  ]
+}
