@@ -18,6 +18,7 @@ import CreateTruckModal from "@/components/CreateTruckModal"
 import { CreateDriverModal } from "@/components/CreateDriverModal"
 
 export const Main = () => {
+  const BASE_URL = window.location.origin + import.meta.env.BASE_URL;
   const toast = useToast()
   const [loads, setLoads] = useState<Load[]>([])
   const [drivers, setDrivers] = useState<Driver[]>([])
@@ -45,7 +46,7 @@ export const Main = () => {
         setIsLoading(true)
         setError(null)
 
-        const response = await fetch("http://localhost:3000/loads-mock.json")
+        const response = await fetch(`${BASE_URL}/loads-mock.json`)
         if (!response.ok) {
           throw new Error("Failed to fetch loads data")
         }
@@ -72,7 +73,7 @@ export const Main = () => {
         setIsLoading(true)
         setError(null)
 
-        const response = await fetch("http://localhost:3000/drivers-mock.json")
+        const response = await fetch(`${BASE_URL}/drivers-mock.json`)
         if (!response.ok) {
           throw new Error("Failed to fetch loads data")
         }
@@ -95,7 +96,7 @@ export const Main = () => {
         setIsLoading(true)
         setError(null)
 
-        const response = await fetch("http://localhost:3000/trucks-mock.json")
+        const response = await fetch(`${BASE_URL}/trucks-mock.json`)
         if (!response.ok) {
           throw new Error("Failed to fetch loads data")
         }
